@@ -1,0 +1,31 @@
+body {
+  color: #333;
+}
+
+#content {
+  margin: 15% auto 0;
+  width: 490px;
+  text-align: center;
+  font-family: "Quattrocento Sans";
+  font-size: 30px;
+  line-height: 42px;
+}
+
+a {
+  font-style: italic;
+  text-decoration: none;
+  color: #bbb;
+}
+
+#icons {
+  margin-top: 10%;
+  text-align: center;
+}
+
+i {
+  font-size: 36px;
+}
+
+.fa-twitter {
+  margin: 0 15px;
+}
